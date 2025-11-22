@@ -34,6 +34,7 @@ Este proyecto sigue la estructura estándar de Maven para aplicaciones web:
 
 ```text
 catalogo-de-juegos-gemu/
+├── screenshots/     # Capturas de pantalla para la documentación (README)
 ├── src/main/java/   # Clases Java (Servlets, lógica de negocio)
 ├── src/main/webapp/ # Archivos web (HTML/JSP, CSS, JS, imágenes)
 ├── pom.xml          # Archivo de configuración de Maven (dependencias)
