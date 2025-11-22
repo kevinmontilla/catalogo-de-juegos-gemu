@@ -61,3 +61,10 @@ Utiliza Maven para construir el proyecto (generar el archivo .war):
 Tipo: Aplicación Web (Full Stack Demo).
 
 Estado: 🟢 Finalizado.
+
+## Autores
+
+<p style="font-size: 22px; font-family: 'Georgia', serif; line-height: 1.6;">
+  • <strong>Carlos Luna</strong><br>
+  • <strong>Kevin Montilla</strong>
+</p>
